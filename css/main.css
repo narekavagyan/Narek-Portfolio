@@ -16,7 +16,7 @@
   background: -webkit-gradient(linear, right top, left top, from(rgba(39, 39, 39, 0.5)), to(rgba(39, 39, 39, 0.3))), url("../img/IMG_20190831_101706.jpg") center top;
   background: linear-gradient(to left, rgba(39, 39, 39, 0.5), rgba(39, 39, 39, 0.3)), url("../img/IMG_20190831_101706.jpg") center top;
   background-size: 800px 1000px;
-  background-position-y: 100%;
+  background-position-y: 70%;
 }
 
 .home__name {
